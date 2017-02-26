@@ -1,0 +1,15 @@
+Written a long while after so may not be 100% accurate:
+
+These was a battery monitoring board that went between the 12V battery and the floating router.
+
+Functions:
+	- Cut off power to the router if battery voltage gets too low
+	- Have hysteresis in the cut-off
+	- Display a rough state of charge on an LED array
+
+Problems:
+	- Array was a multicoloured segment display (some green, some yellow, some red) but this was not properly communicated to the original designer so it is wired in reverse (red = good, green = bad)
+
+Notes:
+	- Built on veroboard only
+	- Used high-voltage logic chips (which could handle up to 15V if I remember correctly)

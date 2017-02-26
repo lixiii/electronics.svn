@@ -1,0 +1,13 @@
+DRC Rules Export File for PCB: D:\Documents\Uni Work - Year 2\CAUV\battery management board 2010-11\design1\board.PcbDoc
+RuleKind=Clearance|RuleName=U2_self_clear|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Deans_via_clearance|Scope=Board|Minimum=1.00
+RuleKind=Clearance|RuleName=Temp sensor|Scope=Board|Minimum=100.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=8.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=8.00
+RuleKind=Clearance|RuleName=rsense clearance|Scope=Board|Minimum=12.00
+RuleKind=Clearance|RuleName=polyclearances_clearance|Scope=Board|Minimum=12.00
+RuleKind=ShortCircuit|RuleName=Pack/Output Shortcircuit allow|Scope=Board|Allowed=1
+RuleKind=Clearance|RuleName=Deans_via_clearance2|Scope=Board|Minimum=0.00

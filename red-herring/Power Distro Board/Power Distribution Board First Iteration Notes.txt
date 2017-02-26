@@ -1,0 +1,48 @@
+copy/paste from old wiki:
+
+Specification
+- Input voltage range: 17.5-25v <- ?
+- Max input current: 30A
+- Main power supply: same voltage as input voltage -0.2v, max current 30A
+- Motor power supply: same voltage as input voltage -0.2v, max current 30A
+- 5v rail output with max current of 1A
+- Kill switch if open circuit will cut the power to all outputs
+- Maim switch if open will cut the power to the motor output
+- The maim switch will be automatically open circuit if an external power supply is connected
+- 2 LEDs, the left LED indicating the main power output, the right indicating the motor power output
+
+
+
+The design
+The P channel MOSFETS (see spec below) will allow current when Vgs < -1V. So when the kill or maim switch is closed the gate will be grounded with a very small current flowing through the 1Mohm resistors and the MOSFET will allow current if the source input is above 1V. If a switch is open then the gate will charge up through the 1Mohm resistor to the voltage of the source (minus the leakage current times the resistance) and so Vgs should be around 0V.
+
+The same principle is used for the external power supply. If there is a voltage on the external power supply input above (battery voltage - 1) V then the MOSFET connecting the batteries to the circuit will turn off disconnecting the batteries. If the external power supply input is above 1V then the MOSFET connecting the external power supply to the circuit will turn on.
+
+The zener diode ensures that if the input voltage is below 17.5v then the kill switch will be open circuit to prevent the batteries discharging too far.
+
+
+
+Modifications
+- The PCB has been slightly modified from the layout design as some of the hole diameters are too small.
+- A 4k7 resistor has been added between the external power supply rails to pull the input to zero when it is floating
+(this is because the reverse current through the diode charges the external power supply input to almost the battery input voltage, without this the maim switch will be automatically open circuit)
+
+
+
+Components
+4 x P power MOSEFETS - http://uk.farnell.com/vishay-siliconix/sup75p03-07/mosfet-p-to-220/dp/9551590
+3 x N MOSFETS - http://uk.farnell.com/vishay-siliconix/2n7002/mosfet-n-sot-23/dp/1021754
+2 x Dual diodes - http://uk.farnell.com/vishay-formerly-international-rectifier/72cpq030pbf/diode-schottky-2x35a-30v-to-247/dp/1013353
+2 x LEDs - http://uk.farnell.com/kingbright/l-934id/led-3mm-red/dp/1142517
+1 x Zener diode - http://uk.farnell.com/on-semiconductor/1n5353bg/diode-zener-16v-5w/dp/9558110
+1 x linear voltage regulator - http://uk.farnell.com/national-semiconductor/lm340at-5-0-nopb/v-reg-linear-5v/dp/1469096?Ntt=1469096
+1 x 30A fuse - http://uk.farnell.com/littelfuse/0312030-mxp/fuse-6-3x32mm-fast-acting-30a/dp/1596716
+2 x Fuse holder - http://uk.farnell.com/littelfuse/01220088h/fuse-clips-pcb/dp/1596549
+1 x 330nF 0805 capacitor - http://uk.farnell.com/epcos/b37941k0334k60/capacitor-0805-0-33uf-25v/dp/8805660
+1 x 100nF 0805 capacitor - http://uk.farnell.com/phycomp-yageo/cc0805krx7r8bb104/capacitor-0805-100nf-25v/dp/644249RL
+8 x 470K 0805 resistor - http://uk.farnell.com/vishay-draloric/crcw0805470kfkea/thick-film-chip-resistor/dp/1653006
+2 x 1K 1210 resistor - http://uk.farnell.com/vishay-draloric/crcw12101k00fkea/resistor-1210-1kr-1/dp/1470030
+1 x 4K7 0805 resistor - http://uk.farnell.com/vishay-draloric/crcw08054k70fkea/resistor-0805-4-7kr-1/dp/1469923
+3 x TO-220 heatsink - http://uk.farnell.com/aavid-thermalloy/sw25-2/heat-sink-to-220-218-13-c-w/dp/1213435
+2 x TO-247 heatsink - http://uk.farnell.com/fischer-elektronik/fk-243-mi-247-h/heat-sink-to-218-220-247-19-c-w/dp/4302497
+4 x heatsink clip - http://uk.farnell.com/aavid-thermalloy/5901/heat-sink-clip/dp/1213445?crosssellid=1213445&crosssell=true&in_merch=true&

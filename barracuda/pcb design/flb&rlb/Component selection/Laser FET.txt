@@ -1,0 +1,4 @@
+http://uk.farnell.com/nxp/pmn27un-135/mosfet-n-ch-20v-5-7a-sot457/dp/1758104
+the laser fet chosen is N-type, with 20V Vds max.
+The Rds on at 2.5V VGS is 40mohm
+The Ids max is 2A - more than enough for the laser

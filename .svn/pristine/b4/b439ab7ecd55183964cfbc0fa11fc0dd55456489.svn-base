@@ -1,0 +1,6 @@
+Bridgelux BXRA-N0402 chosen as it is neutral white, and can be fitted to a small reflector
+Reflector is:
+
+Due to the large range of input voltages to be designed for, the current range is limited by a desire for reasonable ripple currents, so PWM control is recommended.
+
+It was decided to use the LM3409 chip for the Strobes and power them individually. connecting them in series and powering them over the 12V-21V range is difficult and connecting them in parallel can easily lead to big differences in brightness. The LM3409 also has great design guide, has a small package and operating purely in BUCK mode had greater efficiencies associated with it.

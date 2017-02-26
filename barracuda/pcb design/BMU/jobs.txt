@@ -1,0 +1,71 @@
+* Find a linear regulator --DONE
+
+** requirements:
+	-- 3.3 V out
+	-- up to 200mA
+	-- cell low voltage ~ 2 V
+	-- cell high voltage ~3.6V
+
+
+* check values for passive components against reference schematic --DONE
+
+* check voltage & current ratings of passives and spec from farnell --DONE
+
+* work out current in power pumps and spec inductors. -- DONE
+
+* compare  component level reference schematic to our schematic. --DONE
+
+* MOSFET parallelling --DONE
+
+* heatsinking calculations --DONE
+
+* spec MOSFETs -- DONE
+
+* connectors --DONE
+
+* put programming header on schematic --DONE
+
+* sanity check!
+
+* spec resistor & LEDs -- Done
+
+* check whether can leave out zeners on SMB lines --DONE
+
+* add MOSFET to BMU reset control & LED control --DONE
+
+* Spec and Add heatsink --DONE
+
+* Check physical clearances for LED's and space for putting Hall Switches --DONE
+
+* Check cell balancing caps - 4uF calc'd but 22uF seen in reference schematics --DONE
+
+* Check 100pF for caps close to BQ... Chip? (cell balancing sch) --DONE
+
+* Check CAN termination resistor - should be 150 something? --DONE
+
+* Should we put thermal reliefs from vias to planes? Some are some arent atm (defined in design rules) --DONE 
+
+* Thermal reliefs from main mosfets to copper - do we want them? --DONE
+
+* Create soldermask keep-outs from dxf's of copper tabs --DONE
+
+* Check DRC's
+
+* Go through compile warnings on the schematics and see if there's anything we've missed (I found a few as I was laying out the PCB) --DONE
+
+* Tent all the vias
+
+* Precharge mosfet zener (check polarity on pcb) - DONE
+
+* Pack switch mosfet zeners (check polarity on pcb) - DONE
+
+* Double check hirose connector pinout --DONE
+
+* Spec any remaining components and generate a BOM
+
+* Split the BATT- and BATT+ nets from V-1 and V+5? So the DRC checker doesn't complain that we haven't connected them together (as indeed we shouldn't according to the design guide)
+
+* check Fuse Holder footprint
+
+
+* check hirose connector alignment between boards -- DONE

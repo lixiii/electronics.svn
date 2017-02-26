@@ -1,0 +1,108 @@
+Current regulated LEDs (bxra-C2002) using LM3409:
+
+
+Calculations:
+
+
+From Data Sheets:
+Voltage Across LED Vo: 16.2V
+Nominal Input Voltage Vin: 20V
+Vin-max 25V
+iled 1.5A
+dynamic resistance 1.5ohms
+Choose:
+Assume efficiency, 95%
+Switching frequency 50kHz
+Capacitor Off 1 nF
+iled-pp 0.15A
+L1 15uH
+
+Assume Vadj  = 1.24V
+Assume Vin-pp = 0.5V
+
+Roff = 36.2 kohms --> 36.5kohms
+toff = 2.96 useconds
+Fsw = 49.8 kHz
+il-pp = 3.20A
+ilmax = 3.10A
+rsns 0.08ohm --> 0.0806 ohm
+Iled = 1.48 amps
+Zc = 73.8mOhm
+co-min = 43.3uF ---> 47uF
+ton: 17.1 useconds
+Cin-min = 51.3uF -->68uF
+Vt-max = 25V
+It = 1.28A
+it-rms = 1.63
+
+using fdc658ap mosfet rdson=70mOhms
+Pt = 185mW
+Vdmax = 25V
+Id = 0.221A
+Ruv2 = Vhys/22uA = 1.1/22uA = 50kOhm --> 49.9kOhm
+so Vhys = 1.1V
+
+Assume Vturn-on:14.9V from minimum forward voltage on LED.
+so Ruv1 = 1.24*Ruv2/(vturnon-1.24)= 4.53kOhm --> 4.53kOHm
+
+
+
+
+Calculations with BXRA-N0402
+
+iled=0.600A
+vo=8.9V
+vin=20V
+vin-max = 25V
+dynamic resistance = 1.1Ohm
+
+
+Choose:
+Assume efficiency, 95%
+Switching frequency 50kHz
+Capacitor Off 1 nF
+iled-pp 0.06A
+L1 15uH
+
+
+Assume Vadj  = 1.24V
+Assume Vin-pp = 0.5V
+
+Roff= 69469Ohms --> 69.8kOHms
+toff = 10.7us
+fsw= 50.149kHz
+L1= 15uH
+il-pp = 6.289A because inductor is small
+il-max = 3.7445A
+
+Rsns=0.0662 --> 0.0665 OHms
+Iled = 0.5848A
+
+zc = 10.5956mOhm
+Co-min = 2.995e-07 =0.2995uF --> co =  0.47uF 
+
+
+
+ton = 9.34e-06
+cin-min = 11.21 uF --> cin = 22uF 
+
+using fdc658ap mosfet rdson=70mOhms
+
+vdmax = 25V
+Id = 319mA
+
+
+Ruv2 = Vhys/22uA = 1.1/22uA = 50kOhm --> 49.9kOhm
+so Vhys = 1.1V
+
+
+Assume Vturn-on:8.4V from minimum forward voltage on LED.
+so Ruv1 = 1.24*Ruv2/(8.4-1.24)= 8.64kOhm --> 8.66kOHm
+
+
+
+
+
+
+
+ 

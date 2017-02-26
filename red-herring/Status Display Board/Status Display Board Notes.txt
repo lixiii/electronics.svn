@@ -1,0 +1,20 @@
+copy/paste from the wiki:
+
+Status Display Board
+This page details the design and manufacture of the Status Display Board, a PCB combining a 16x4 alphanumeric LCD screen with 7 status LED's (2 connected directly to power rails and 5 driven from a PIC).
+
+
+Mechanical
+
+Connects to end plate via 4 M2.5 screws/bolts with spacers of a length yet to be determined. Mounting holes are in rectangular formation of size 82mmx55mm.
+
+Mechanics people, feel free to add more intelligent comment here as necessary.
+
+
+Features
+- 16x4 alphanumeric backlit LCD screen
+- Contrast controllable by variable resistor
+- Backlight can be switched by PIC
+- 2 status LED's indicating 5V and 19V power
+- 5 general status LED's to be driven by PIC
+- Communication via I2C bus

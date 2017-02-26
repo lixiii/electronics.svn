@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+ <title>CAUV Schematic Parts and Footprint Drawing Guidelines</title>
+ </head>
+ <body>
+ <p>Here are some helpful hints for when attempting to draw new schematic parts &amp; footprints</p>
+ <h1>Schematics</h1>
+ <ul>
+	<li>Do not rename/reinterpret pin names. This makes it much harder to identify pins between schematics/datasheets. For example, if an SPI SCLK pin is called 'SCK' in the datasheet, use 'SCK' as the name (not 'SCLK').</li>
+	<li>Number pins exactly as they appear on the datasheet. In some cases the schematic pin numbers can be different for different footprints, in which case use the numbers for the footprint we are commonly going to use. It IS possible to remap schematic pin numbers to footprint numbers, but this should <b>not</b> be used except in extreme cases, as it is subtle and easy to not notice. Incorrect pinouts can ruin designs...</li>
+	<li>Remember to set the input/output/IO/power/passive status of pins, as it allows the design checking system to work.</li>
+ </ul>
+ <h1>Footprints</h1>
+  <ul>
+	<li>If your not drawing a connector, most probably the entire footprint can be generated using the IPC footprint wizard (in one of the menus at the top). This is <b>extremely</b> useful, as it reduces the chances of error in drawing the footprint, and decreases drawing time.</li>
+	<li>Number pads exactly as they appear in the datasheet. For standard part shapes the numbers are almost always correct, but just check. When drawing connectors, sometimes the mechanical drawings designate a 'pin 1', try and match this, but sometimes a little guess work is needed. Verifying schematics/footprints is 10x easier when pin numbers match those in the datasheet.</li>
+	<li>Following the above rules, sometimes (mainly for weird things like sdcard slots, ethernet connectors etc..), the pin numbers on the schematic won't match those on the datasheet. <b>This is the time to use the pin remapping feature.</b> However, if doing so, check, double check, triple check and check again that you have the mapping correct. Check the pin numbers and names all the way through from the schematic to the footprint, and ensure they are ok.</li>
+ </ul>
+ </body>
+</html>

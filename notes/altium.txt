@@ -1,0 +1,12 @@
+= Import bitmap =
+* Paste bitmap into Word (yes, Word!), then copy+paste into Altium. Note, make the bitmap as large as possible in Word to achieve maximum resolution in Altium.
+
+= Resizing/scaling polygon pours etc. =
+* make union from selected objects
+* right click -> Unions -> Resize union
+
+= Non-obvious keyboard shortcuts =
+Ctrl + double click to open child sheet
+
+= Cloning room layouts =
+Design -> Rooms -> Copy Room Formats

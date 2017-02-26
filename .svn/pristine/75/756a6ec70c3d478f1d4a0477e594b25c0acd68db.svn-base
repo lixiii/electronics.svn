@@ -1,0 +1,20 @@
+this file is still missing a lot. It's being updated when I remember things
+-- Buckley
+
+- Tracks
+-- standard width (0.25, 0.3mm ???)
+-- Missing supply connections to planes
+- Planes
+-- correct net names assigned
+-- seperated ground planes connected by tracks
+- Silkscreen
+-- Designators
+--- Re-annotate for board layout
+--- Size
+--- Position
+--- Rotation
+-- Connector labels
+-- Logo
+-- Board name, model no., serial no.
+- Pads
+-- Vias for anti-delamination for mounting holes

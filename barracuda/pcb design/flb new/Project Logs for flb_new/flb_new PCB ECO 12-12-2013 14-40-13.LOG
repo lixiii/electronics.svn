@@ -1,0 +1,199 @@
+Added Component: Designator=C1_U_ledcurrentdriver1(RAD-0.3)
+Added Component: Designator=C1_U_ledcurrentdriver2(RAD-0.3)
+Added Component: Designator=C1_U_ledcurrentdriver3(RAD-0.3)
+Added Component: Designator=C2_U_ledcurrentdriver2(RAD-0.3)
+Added Component: Designator=C2_U_ledcurrentdriver3(RAD-0.3)
+Added Component: Designator=C3_U_ledcurrentdriver1(RAD-0.3)
+Added Component: Designator=C3_U_ledcurrentdriver2(RAD-0.3)
+Added Component: Designator=C3_U_ledcurrentdriver3(RAD-0.3)
+Added Component: Designator=C4_U_ledcurrentdriver1(RAD-0.3)
+Added Component: Designator=C4_U_ledcurrentdriver2(RAD-0.3)
+Added Component: Designator=C4_U_ledcurrentdriver3(RAD-0.3)
+Added Component: Designator=C5_U_ledcurrentdriver1(RAD-0.3)
+Added Component: Designator=C5_U_ledcurrentdriver2(RAD-0.3)
+Added Component: Designator=C5_U_ledcurrentdriver3(RAD-0.3)
+Added Component: Designator=C9(RAD-0.3)
+Added Component: Designator=D1_U_ledcurrentdriver1(SML-01 (ROHM LED SERIES))
+Added Component: Designator=D1_U_ledcurrentdriver2(SML-01 (ROHM LED SERIES))
+Added Component: Designator=D1_U_ledcurrentdriver3(SML-01 (ROHM LED SERIES))
+Added Component: Designator=D2_U_ledcurrentdriver1(SMB)
+Added Component: Designator=D2_U_ledcurrentdriver2(SMB)
+Added Component: Designator=D2_U_ledcurrentdriver3(SMB)
+Added Component: Designator=L1_U_ledcurrentdriver1(0402-A)
+Added Component: Designator=L1_U_ledcurrentdriver2(0402-A)
+Added Component: Designator=L1_U_ledcurrentdriver3(0402-A)
+Added Component: Designator=Q1_U_ledcurrentdriver1(E3)
+Added Component: Designator=Q1_U_ledcurrentdriver2(E3)
+Added Component: Designator=Q1_U_ledcurrentdriver3(E3)
+Added Component: Designator=R1_U_ledcurrentdriver1(AXIAL-0.4)
+Added Component: Designator=R1_U_ledcurrentdriver2(AXIAL-0.4)
+Added Component: Designator=R1_U_ledcurrentdriver3(AXIAL-0.4)
+Added Component: Designator=R2_U_ledcurrentdriver1(AXIAL-0.4)
+Added Component: Designator=R2_U_ledcurrentdriver2(AXIAL-0.4)
+Added Component: Designator=R2_U_ledcurrentdriver3(AXIAL-0.4)
+Added Component: Designator=R3_U_ledcurrentdriver1(AXIAL-0.3)
+Added Component: Designator=R3_U_ledcurrentdriver2(AXIAL-0.3)
+Added Component: Designator=R3_U_ledcurrentdriver3(AXIAL-0.3)
+Added Component: Designator=R4_U_ledcurrentdriver1(AXIAL-0.4)
+Added Component: Designator=R4_U_ledcurrentdriver2(AXIAL-0.4)
+Added Component: Designator=R4_U_ledcurrentdriver3(AXIAL-0.4)
+Added Component: Designator=R5_U_ledcurrentdriver1(AXIAL-0.4)
+Added Component: Designator=R5_U_ledcurrentdriver2(AXIAL-0.4)
+Added Component: Designator=R5_U_ledcurrentdriver3(AXIAL-0.4)
+Added Component: Designator=U1_U_ledcurrentdriver1(10eMSOP + thermal pad - LM3409)
+Added Component: Designator=U1_U_ledcurrentdriver2(10eMSOP + thermal pad - LM3409)
+Added Component: Designator=U1_U_ledcurrentdriver3(10eMSOP + thermal pad - LM3409)
+Added Pin To Net: NetName=GND Pin=C1_U_ledcurrentdriver1-2
+Added Pin To Net: NetName=GND Pin=C1_U_ledcurrentdriver2-2
+Added Pin To Net: NetName=GND Pin=C1_U_ledcurrentdriver3-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2_U_ledcurrentdriver2-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2_U_ledcurrentdriver3-2
+Added Pin To Net: NetName=GND Pin=C3_U_ledcurrentdriver1-1
+Added Pin To Net: NetName=NetC2_1 Pin=C3_U_ledcurrentdriver1-2
+Added Pin To Net: NetName=GND Pin=C3_U_ledcurrentdriver2-1
+Added Pin To Net: NetName=NetC2_1 Pin=C3_U_ledcurrentdriver2-2
+Added Pin To Net: NetName=GND Pin=C3_U_ledcurrentdriver3-1
+Added Pin To Net: NetName=NetC2_1 Pin=C3_U_ledcurrentdriver3-2
+Added Pin To Net: NetName=GND Pin=C4_U_ledcurrentdriver1-2
+Added Pin To Net: NetName=GND Pin=C4_U_ledcurrentdriver2-2
+Added Pin To Net: NetName=GND Pin=C4_U_ledcurrentdriver3-2
+Added Pin To Net: NetName=GND Pin=C5_U_ledcurrentdriver1-1
+Added Pin To Net: NetName=GND Pin=C5_U_ledcurrentdriver2-1
+Added Pin To Net: NetName=GND Pin=C5_U_ledcurrentdriver3-1
+Added Pin To Net: NetName=NetC2_1 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=D1_U_ledcurrentdriver1-2
+Added Pin To Net: NetName=GND Pin=D1_U_ledcurrentdriver2-2
+Added Pin To Net: NetName=GND Pin=D1_U_ledcurrentdriver3-2
+Added Pin To Net: NetName=GND Pin=D2_U_ledcurrentdriver1-1
+Added Pin To Net: NetName=GND Pin=D2_U_ledcurrentdriver2-1
+Added Pin To Net: NetName=GND Pin=D2_U_ledcurrentdriver3-1
+Added Pin To Net: NetName=NetC2_1 Pin=R1_U_ledcurrentdriver1-2
+Added Pin To Net: NetName=NetC2_1 Pin=R1_U_ledcurrentdriver2-2
+Added Pin To Net: NetName=NetC2_1 Pin=R1_U_ledcurrentdriver3-2
+Added Pin To Net: NetName=GND Pin=R2_U_ledcurrentdriver1-1
+Added Pin To Net: NetName=GND Pin=R2_U_ledcurrentdriver2-1
+Added Pin To Net: NetName=GND Pin=R2_U_ledcurrentdriver3-1
+Added Pin To Net: NetName=NetC2_1 Pin=R4_U_ledcurrentdriver1-2
+Added Pin To Net: NetName=NetC2_1 Pin=R4_U_ledcurrentdriver2-2
+Added Pin To Net: NetName=NetC2_1 Pin=R4_U_ledcurrentdriver3-2
+Added Pin To Net: NetName=GND Pin=U1_U_ledcurrentdriver1-5
+Added Pin To Net: NetName=NetC2_1 Pin=U1_U_ledcurrentdriver1-8
+Added Pin To Net: NetName=NetC2_1 Pin=U1_U_ledcurrentdriver1-10
+Added Pin To Net: NetName=GND Pin=U1_U_ledcurrentdriver1-11
+Added Pin To Net: NetName=GND Pin=U1_U_ledcurrentdriver2-5
+Added Pin To Net: NetName=NetC2_1 Pin=U1_U_ledcurrentdriver2-8
+Added Pin To Net: NetName=NetC2_1 Pin=U1_U_ledcurrentdriver2-10
+Added Pin To Net: NetName=GND Pin=U1_U_ledcurrentdriver2-11
+Added Pin To Net: NetName=GND Pin=U1_U_ledcurrentdriver3-5
+Added Pin To Net: NetName=NetC2_1 Pin=U1_U_ledcurrentdriver3-8
+Added Pin To Net: NetName=NetC2_1 Pin=U1_U_ledcurrentdriver3-10
+Added Pin To Net: NetName=GND Pin=U1_U_ledcurrentdriver3-11
+Added Pin To Net: NetName=Net*1_15 Pin=*1-15
+Added Pin To Net: NetName=Net*1_15 Pin=R3_U_ledcurrentdriver1-1
+Added Net: Name=Net*1_15
+Added Pin To Net: NetName=Net*1_16 Pin=*1-16
+Added Pin To Net: NetName=Net*1_16 Pin=R3_U_ledcurrentdriver2-1
+Added Net: Name=Net*1_16
+Added Pin To Net: NetName=Net*1_17 Pin=*1-17
+Added Pin To Net: NetName=Net*1_17 Pin=R3_U_ledcurrentdriver3-1
+Added Net: Name=Net*1_17
+Added Pin To Net: NetName=Net*1_35 Pin=*1-35
+Added Pin To Net: NetName=Net*1_35 Pin=U1_U_ledcurrentdriver1-3
+Added Net: Name=Net*1_35
+Added Pin To Net: NetName=Net*1_36 Pin=*1-36
+Added Pin To Net: NetName=Net*1_36 Pin=U1_U_ledcurrentdriver2-3
+Added Net: Name=Net*1_36
+Added Pin To Net: NetName=Net*1_37 Pin=*1-37
+Added Pin To Net: NetName=Net*1_37 Pin=U1_U_ledcurrentdriver3-3
+Added Net: Name=Net*1_37
+Added Pin To Net: NetName=NetC1_U_ledcurrentdriver1_1 Pin=C1_U_ledcurrentdriver1-1
+Added Pin To Net: NetName=NetC1_U_ledcurrentdriver1_1 Pin=R5_U_ledcurrentdriver1-2
+Added Pin To Net: NetName=NetC1_U_ledcurrentdriver1_1 Pin=U1_U_ledcurrentdriver1-4
+Added Net: Name=NetC1_U_ledcurrentdriver1_1
+Added Pin To Net: NetName=NetC1_U_ledcurrentdriver2_1 Pin=C1_U_ledcurrentdriver2-1
+Added Pin To Net: NetName=NetC1_U_ledcurrentdriver2_1 Pin=R5_U_ledcurrentdriver2-2
+Added Pin To Net: NetName=NetC1_U_ledcurrentdriver2_1 Pin=U1_U_ledcurrentdriver2-4
+Added Net: Name=NetC1_U_ledcurrentdriver2_1
+Added Pin To Net: NetName=NetC1_U_ledcurrentdriver3_1 Pin=C1_U_ledcurrentdriver3-1
+Added Pin To Net: NetName=NetC1_U_ledcurrentdriver3_1 Pin=R5_U_ledcurrentdriver3-2
+Added Pin To Net: NetName=NetC1_U_ledcurrentdriver3_1 Pin=U1_U_ledcurrentdriver3-4
+Added Net: Name=NetC1_U_ledcurrentdriver3_1
+Added Pin To Net: NetName=NetC2_U_ledcurrentdriver2_1 Pin=C2_U_ledcurrentdriver2-1
+Added Pin To Net: NetName=NetC2_U_ledcurrentdriver2_1 Pin=U1_U_ledcurrentdriver2-9
+Added Net: Name=NetC2_U_ledcurrentdriver2_1
+Added Pin To Net: NetName=NetC2_U_ledcurrentdriver3_1 Pin=C2_U_ledcurrentdriver3-1
+Added Pin To Net: NetName=NetC2_U_ledcurrentdriver3_1 Pin=U1_U_ledcurrentdriver3-9
+Added Net: Name=NetC2_U_ledcurrentdriver3_1
+Added Pin To Net: NetName=NetC4_U_ledcurrentdriver1_1 Pin=C4_U_ledcurrentdriver1-1
+Added Pin To Net: NetName=NetC4_U_ledcurrentdriver1_1 Pin=R3_U_ledcurrentdriver1-2
+Added Pin To Net: NetName=NetC4_U_ledcurrentdriver1_1 Pin=U1_U_ledcurrentdriver1-2
+Added Net: Name=NetC4_U_ledcurrentdriver1_1
+Added Pin To Net: NetName=NetC4_U_ledcurrentdriver2_1 Pin=C4_U_ledcurrentdriver2-1
+Added Pin To Net: NetName=NetC4_U_ledcurrentdriver2_1 Pin=R3_U_ledcurrentdriver2-2
+Added Pin To Net: NetName=NetC4_U_ledcurrentdriver2_1 Pin=U1_U_ledcurrentdriver2-2
+Added Net: Name=NetC4_U_ledcurrentdriver2_1
+Added Pin To Net: NetName=NetC4_U_ledcurrentdriver3_1 Pin=C4_U_ledcurrentdriver3-1
+Added Pin To Net: NetName=NetC4_U_ledcurrentdriver3_1 Pin=R3_U_ledcurrentdriver3-2
+Added Pin To Net: NetName=NetC4_U_ledcurrentdriver3_1 Pin=U1_U_ledcurrentdriver3-2
+Added Net: Name=NetC4_U_ledcurrentdriver3_1
+Added Pin To Net: NetName=NetC5_U_ledcurrentdriver1_2 Pin=C5_U_ledcurrentdriver1-2
+Added Pin To Net: NetName=NetC5_U_ledcurrentdriver1_2 Pin=D1_U_ledcurrentdriver1-1
+Added Pin To Net: NetName=NetC5_U_ledcurrentdriver1_2 Pin=L1_U_ledcurrentdriver1-2
+Added Pin To Net: NetName=NetC5_U_ledcurrentdriver1_2 Pin=R5_U_ledcurrentdriver1-1
+Added Net: Name=NetC5_U_ledcurrentdriver1_2
+Added Pin To Net: NetName=NetC5_U_ledcurrentdriver2_2 Pin=C5_U_ledcurrentdriver2-2
+Added Pin To Net: NetName=NetC5_U_ledcurrentdriver2_2 Pin=D1_U_ledcurrentdriver2-1
+Added Pin To Net: NetName=NetC5_U_ledcurrentdriver2_2 Pin=L1_U_ledcurrentdriver2-2
+Added Pin To Net: NetName=NetC5_U_ledcurrentdriver2_2 Pin=R5_U_ledcurrentdriver2-1
+Added Net: Name=NetC5_U_ledcurrentdriver2_2
+Added Pin To Net: NetName=NetC5_U_ledcurrentdriver3_2 Pin=C5_U_ledcurrentdriver3-2
+Added Pin To Net: NetName=NetC5_U_ledcurrentdriver3_2 Pin=D1_U_ledcurrentdriver3-1
+Added Pin To Net: NetName=NetC5_U_ledcurrentdriver3_2 Pin=L1_U_ledcurrentdriver3-2
+Added Pin To Net: NetName=NetC5_U_ledcurrentdriver3_2 Pin=R5_U_ledcurrentdriver3-1
+Added Net: Name=NetC5_U_ledcurrentdriver3_2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=U1_U_ledcurrentdriver1-9
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetD2_U_ledcurrentdriver1_2 Pin=D2_U_ledcurrentdriver1-2
+Added Pin To Net: NetName=NetD2_U_ledcurrentdriver1_2 Pin=L1_U_ledcurrentdriver1-1
+Added Pin To Net: NetName=NetD2_U_ledcurrentdriver1_2 Pin=Q1_U_ledcurrentdriver1-3
+Added Net: Name=NetD2_U_ledcurrentdriver1_2
+Added Pin To Net: NetName=NetD2_U_ledcurrentdriver2_2 Pin=D2_U_ledcurrentdriver2-2
+Added Pin To Net: NetName=NetD2_U_ledcurrentdriver2_2 Pin=L1_U_ledcurrentdriver2-1
+Added Pin To Net: NetName=NetD2_U_ledcurrentdriver2_2 Pin=Q1_U_ledcurrentdriver2-3
+Added Net: Name=NetD2_U_ledcurrentdriver2_2
+Added Pin To Net: NetName=NetD2_U_ledcurrentdriver3_2 Pin=D2_U_ledcurrentdriver3-2
+Added Pin To Net: NetName=NetD2_U_ledcurrentdriver3_2 Pin=L1_U_ledcurrentdriver3-1
+Added Pin To Net: NetName=NetD2_U_ledcurrentdriver3_2 Pin=Q1_U_ledcurrentdriver3-3
+Added Net: Name=NetD2_U_ledcurrentdriver3_2
+Added Pin To Net: NetName=NetQ1_U_ledcurrentdriver1_1 Pin=Q1_U_ledcurrentdriver1-1
+Added Pin To Net: NetName=NetQ1_U_ledcurrentdriver1_1 Pin=R4_U_ledcurrentdriver1-1
+Added Pin To Net: NetName=NetQ1_U_ledcurrentdriver1_1 Pin=U1_U_ledcurrentdriver1-7
+Added Net: Name=NetQ1_U_ledcurrentdriver1_1
+Added Pin To Net: NetName=NetQ1_U_ledcurrentdriver2_1 Pin=Q1_U_ledcurrentdriver2-1
+Added Pin To Net: NetName=NetQ1_U_ledcurrentdriver2_1 Pin=R4_U_ledcurrentdriver2-1
+Added Pin To Net: NetName=NetQ1_U_ledcurrentdriver2_1 Pin=U1_U_ledcurrentdriver2-7
+Added Net: Name=NetQ1_U_ledcurrentdriver2_1
+Added Pin To Net: NetName=NetQ1_U_ledcurrentdriver3_1 Pin=Q1_U_ledcurrentdriver3-1
+Added Pin To Net: NetName=NetQ1_U_ledcurrentdriver3_1 Pin=R4_U_ledcurrentdriver3-1
+Added Pin To Net: NetName=NetQ1_U_ledcurrentdriver3_1 Pin=U1_U_ledcurrentdriver3-7
+Added Net: Name=NetQ1_U_ledcurrentdriver3_1
+Added Pin To Net: NetName=NetR1_U_ledcurrentdriver1_1 Pin=R1_U_ledcurrentdriver1-1
+Added Pin To Net: NetName=NetR1_U_ledcurrentdriver1_1 Pin=R2_U_ledcurrentdriver1-2
+Added Pin To Net: NetName=NetR1_U_ledcurrentdriver1_1 Pin=U1_U_ledcurrentdriver1-1
+Added Net: Name=NetR1_U_ledcurrentdriver1_1
+Added Pin To Net: NetName=NetR1_U_ledcurrentdriver2_1 Pin=R1_U_ledcurrentdriver2-1
+Added Pin To Net: NetName=NetR1_U_ledcurrentdriver2_1 Pin=R2_U_ledcurrentdriver2-2
+Added Pin To Net: NetName=NetR1_U_ledcurrentdriver2_1 Pin=U1_U_ledcurrentdriver2-1
+Added Net: Name=NetR1_U_ledcurrentdriver2_1
+Added Pin To Net: NetName=NetR1_U_ledcurrentdriver3_1 Pin=R1_U_ledcurrentdriver3-1
+Added Pin To Net: NetName=NetR1_U_ledcurrentdriver3_1 Pin=R2_U_ledcurrentdriver3-2
+Added Pin To Net: NetName=NetR1_U_ledcurrentdriver3_1 Pin=U1_U_ledcurrentdriver3-1
+Added Net: Name=NetR1_U_ledcurrentdriver3_1
+Added Class: Name=U_ledcurrentdriver1
+Added Class: Name=U_ledcurrentdriver2
+Added Class: Name=U_ledcurrentdriver3
+Added Class: Name=ledcurrentdriver
+Added Room: Name=U_ledcurrentdriver1
+Added Room: Name=U_ledcurrentdriver2
+Added Room: Name=U_ledcurrentdriver3

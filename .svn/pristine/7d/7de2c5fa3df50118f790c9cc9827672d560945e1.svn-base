@@ -1,0 +1,16 @@
+Acronyms for the various boards in this folder, to help understanding
+
+aib = Antenna interface board
+APB = Acoustic processing board
+BMB new = Battery management board new
+BMU = Battery management unit
+csb = Computer supervisor board
+flb new = Front lights board new
+flb & rlb = Front and rear lights boards
+hic = Hydrophone interface cape
+mcb = Main control board
+mcc = Main control cape
+pdb = Power distribution board
+scb = Speed controller board
+schb = Speed controller host board
+sdb = Serial distribution board

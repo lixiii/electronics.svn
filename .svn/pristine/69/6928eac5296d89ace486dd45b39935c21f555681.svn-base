@@ -1,0 +1,17 @@
+Comment,Description,Designator,farnell,Footprint,LibRef,Quantity,Value
+
+"Cap Pol1","Polarized Capacitor (Radial)","C1","1902011","C0805","Cap Pol1","1","22uF 35V"
+"Cap Pol1","Polarized Capacitor (Radial)","C2, C3","1135277","C0805","Cap Pol1","2","22uF"
+"Cap","Capacitor","C5","1759391","C0603","Cap","1","1uF"
+"Cap","Capacitor","C6, C8, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19","1759122","C0603","Cap","12","0.1uF"
+"Cap","Capacitor","C7","1865471","C0603","Cap","1","8.2pF"
+"Cap","Capacitor","C9","1414608","C0603","Cap","1","1nF"
+"","Typical RED, GREEN, YELLOW, AMBER GaAs LED","D2","1226372","LGQ971","LED2","1","GREEN"
+"Header 4","Header, 4-Pin","P1","1830839, 1679110, 1679142*4","SM04B-SRSS-TB","Header 4","1",""
+"","USB-Wifi adapter","P2","1177883","Gmyle","WIFI","1",""
+"Header 8","Header, 8-Pin","P3","1679124, 1679114, 1679142*8","SM08B-SRSS-TB","Header 8","1",""
+"Res","Resistor","R5","9330380","R0603","Res2","1","1K"
+"SR10S3V3","XP POWER - SR10S3V3 - SWITCHING REGULATOR, 3.3V, 1A O/P","U1","1861100","SR10S3V3","SR10S3V3","1",""
+"XBEE","Xbee module","U2","","Xbee","XBEE","1",""
+"GPS","LS20031","U3","","LS20031","GPS","1",""
+"TRSF3232EID","TEXAS INSTRUMENTS - TRSF3232EID - RS232, 1MBIT, LINE DRIV/REC, 16SOIC","U4, U5","1603424","SOIC127P600X175-16N","TRSF3232EID","2",""

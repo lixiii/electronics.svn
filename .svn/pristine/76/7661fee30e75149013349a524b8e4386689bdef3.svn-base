@@ -1,0 +1,847 @@
+Protel Design System Design Rule Check
+PCB File : D:\Documents\Uni Work - Year 2\CAUV\battery management board 2010-11\design1\board.PcbDoc
+Date     : 25/03/2011
+Time     : 02:57:36
+
+Processing Rule : Clearance Constraint (Gap=100mil) (InNet('HOT')),((InComponent('U5')))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Pad Output1-1(5824mil,2213.126mil)  Top Layer
+   Violation between Track (5723mil,2141mil)(5723mil,2171mil)  Keep-Out Layer and 
+                     Pad Output1-1(5824mil,2213.126mil)  Top Layer
+   Violation between Track (5933mil,2171mil)(5933mil,2250mil)  Keep-Out Layer and 
+                     Pad Output1-1(5824mil,2213.126mil)  Top Layer
+   Violation between Track (5723mil,2171mil)(5933mil,2171mil)  Keep-Out Layer and 
+                     Pad Output1-1(5824mil,2213.126mil)  Top Layer
+   Violation between Track (5933mil,2250mil)(6186.299mil,2250mil)  Keep-Out Layer and 
+                     Pad Output1-1(5824mil,2213.126mil)  Top Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Pad Output1-1(5824mil,2093.874mil)  Top Layer
+   Violation between Track (5723mil,2141mil)(5723mil,2171mil)  Keep-Out Layer and 
+                     Pad Output1-1(5824mil,2093.874mil)  Top Layer
+   Violation between Track (5930mil,1695mil)(5930mil,2141mil)  Keep-Out Layer and 
+                     Pad Output1-1(5824mil,2093.874mil)  Top Layer
+   Violation between Track (5723mil,2141mil)(5930mil,2141mil)  Keep-Out Layer and 
+                     Pad Output1-1(5824mil,2093.874mil)  Top Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Pad Output1-1(5674mil,2151mil)  Top Layer
+   Violation between Track (5723mil,2141mil)(5723mil,2171mil)  Keep-Out Layer and 
+                     Pad Output1-1(5674mil,2151mil)  Top Layer
+   Violation between Track (5723mil,2141mil)(5930mil,2141mil)  Keep-Out Layer and 
+                     Pad Output1-1(5674mil,2151mil)  Top Layer
+   Violation between Track (5723mil,2171mil)(5933mil,2171mil)  Keep-Out Layer and 
+                     Pad Output1-1(5674mil,2151mil)  Top Layer
+   Violation between Track (5930mil,1695mil)(5930mil,2141mil)  Keep-Out Layer and 
+                     Pad Output1-2(5774mil,1841mil)  Top Layer
+   Violation between Track (2915mil,1695mil)(5930mil,1695mil)  Keep-Out Layer and 
+                     Pad Output1-2(5774mil,1841mil)  Top Layer
+   Violation between Pad U2-2(3532.685mil,4090.709mil)  Top Layer and 
+                     Pad U2-1(3552.37mil,4090.709mil)  Top Layer
+   Violation between Pad U2-3(3513mil,4090.709mil)  Top Layer and 
+                     Pad U2-2(3532.685mil,4090.709mil)  Top Layer
+   Violation between Pad U2-5(3473.63mil,4090.709mil)  Top Layer and 
+                     Pad U2-4(3493.315mil,4090.709mil)  Top Layer
+   Violation between Pad U2-9(3532.685mil,3929.291mil)  Top Layer and 
+                     Pad U2-10(3552.37mil,3929.291mil)  Top Layer
+   Violation between Pad U2-8(3513mil,3929.291mil)  Top Layer and 
+                     Pad U2-9(3532.685mil,3929.291mil)  Top Layer
+   Violation between Pad U2-7(3493.315mil,3929.291mil)  Top Layer and 
+                     Pad U2-8(3513mil,3929.291mil)  Top Layer
+   Violation between Pad U2-6(3473.63mil,3929.291mil)  Top Layer and 
+                     Pad U2-7(3493.315mil,3929.291mil)  Top Layer
+   Violation between Track (2915mil,1695mil)(5930mil,1695mil)  Keep-Out Layer and 
+                     Pad Pack 1-2(3085mil,1844mil)  Top Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Pad Pack 1-1(3035mil,2171.126mil)  Top Layer
+   Violation between Track (2915mil,2125mil)(2915mil,2250mil)  Keep-Out Layer and 
+                     Pad Pack 1-1(3035mil,2171.126mil)  Top Layer
+   Violation between Track (3126mil,2095mil)(3126mil,2125mil)  Keep-Out Layer and 
+                     Pad Pack 1-1(3035mil,2171.126mil)  Top Layer
+   Violation between Track (2915mil,2125mil)(3126mil,2125mil)  Keep-Out Layer and 
+                     Pad Pack 1-1(3035mil,2171.126mil)  Top Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Pad Pack 1-1(3035mil,2051.874mil)  Top Layer
+   Violation between Track (2915mil,1695mil)(2915mil,2095mil)  Keep-Out Layer and 
+                     Pad Pack 1-1(3035mil,2051.874mil)  Top Layer
+   Violation between Track (3126mil,2095mil)(3126mil,2125mil)  Keep-Out Layer and 
+                     Pad Pack 1-1(3035mil,2051.874mil)  Top Layer
+   Violation between Track (2915mil,2095mil)(3126mil,2095mil)  Keep-Out Layer and 
+                     Pad Pack 1-1(3035mil,2051.874mil)  Top Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Pad Pack 1-1(3185mil,2109mil)  Top Layer
+   Violation between Track (3126mil,2095mil)(3126mil,2125mil)  Keep-Out Layer and 
+                     Pad Pack 1-1(3185mil,2109mil)  Top Layer
+   Violation between Track (2915mil,2125mil)(3126mil,2125mil)  Keep-Out Layer and 
+                     Pad Pack 1-1(3185mil,2109mil)  Top Layer
+   Violation between Track (2915mil,2095mil)(3126mil,2095mil)  Keep-Out Layer and 
+                     Pad Pack 1-1(3185mil,2109mil)  Top Layer
+   Violation between Track (3135mil,3720mil)(3145mil,3710mil)  Top Layer and 
+                     Pad C20-2(3140.071mil,3701mil)  Top Layer
+   Violation between Track (3135mil,3720mil)(3135mil,3794.188mil)  Top Layer and 
+                     Pad C20-2(3140.071mil,3701mil)  Top Layer
+   Violation between Track (3145mil,3710mil)(3283.812mil,3710mil)  Top Layer and 
+                     Pad C20-2(3140.071mil,3701mil)  Top Layer
+   Violation between Track (3145mil,3710mil)(3283.812mil,3710mil)  Top Layer and 
+                     Pad C20-1(3207mil,3701mil)  Top Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Pad Output1-1(5824mil,2213.126mil)  Bottom Layer
+   Violation between Track (5723mil,2141mil)(5723mil,2171mil)  Keep-Out Layer and 
+                     Pad Output1-1(5824mil,2213.126mil)  Bottom Layer
+   Violation between Track (5933mil,2171mil)(5933mil,2250mil)  Keep-Out Layer and 
+                     Pad Output1-1(5824mil,2213.126mil)  Bottom Layer
+   Violation between Track (5723mil,2171mil)(5933mil,2171mil)  Keep-Out Layer and 
+                     Pad Output1-1(5824mil,2213.126mil)  Bottom Layer
+   Violation between Track (5933mil,2250mil)(6186.299mil,2250mil)  Keep-Out Layer and 
+                     Pad Output1-1(5824mil,2213.126mil)  Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Pad Output1-1(5824mil,2093.874mil)  Bottom Layer
+   Violation between Track (5723mil,2141mil)(5723mil,2171mil)  Keep-Out Layer and 
+                     Pad Output1-1(5824mil,2093.874mil)  Bottom Layer
+   Violation between Track (5930mil,1695mil)(5930mil,2141mil)  Keep-Out Layer and 
+                     Pad Output1-1(5824mil,2093.874mil)  Bottom Layer
+   Violation between Track (5723mil,2141mil)(5930mil,2141mil)  Keep-Out Layer and 
+                     Pad Output1-1(5824mil,2093.874mil)  Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Pad Output1-1(5674mil,2151mil)  Bottom Layer
+   Violation between Track (5723mil,2141mil)(5723mil,2171mil)  Keep-Out Layer and 
+                     Pad Output1-1(5674mil,2151mil)  Bottom Layer
+   Violation between Track (5723mil,2141mil)(5930mil,2141mil)  Keep-Out Layer and 
+                     Pad Output1-1(5674mil,2151mil)  Bottom Layer
+   Violation between Track (5723mil,2171mil)(5933mil,2171mil)  Keep-Out Layer and 
+                     Pad Output1-1(5674mil,2151mil)  Bottom Layer
+   Violation between Track (5930mil,1695mil)(5930mil,2141mil)  Keep-Out Layer and 
+                     Pad Output1-2(5774mil,1841mil)  Bottom Layer
+   Violation between Track (2915mil,1695mil)(5930mil,1695mil)  Keep-Out Layer and 
+                     Pad Output1-2(5774mil,1841mil)  Bottom Layer
+   Violation between Track (2915mil,1695mil)(5930mil,1695mil)  Keep-Out Layer and 
+                     Pad Pack 1-2(3085mil,1844mil)  Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Pad Pack 1-1(3035mil,2171.126mil)  Bottom Layer
+   Violation between Track (2915mil,2125mil)(2915mil,2250mil)  Keep-Out Layer and 
+                     Pad Pack 1-1(3035mil,2171.126mil)  Bottom Layer
+   Violation between Track (3126mil,2095mil)(3126mil,2125mil)  Keep-Out Layer and 
+                     Pad Pack 1-1(3035mil,2171.126mil)  Bottom Layer
+   Violation between Track (2915mil,2125mil)(3126mil,2125mil)  Keep-Out Layer and 
+                     Pad Pack 1-1(3035mil,2171.126mil)  Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Pad Pack 1-1(3035mil,2051.874mil)  Bottom Layer
+   Violation between Track (2915mil,1695mil)(2915mil,2095mil)  Keep-Out Layer and 
+                     Pad Pack 1-1(3035mil,2051.874mil)  Bottom Layer
+   Violation between Track (3126mil,2095mil)(3126mil,2125mil)  Keep-Out Layer and 
+                     Pad Pack 1-1(3035mil,2051.874mil)  Bottom Layer
+   Violation between Track (2915mil,2095mil)(3126mil,2095mil)  Keep-Out Layer and 
+                     Pad Pack 1-1(3035mil,2051.874mil)  Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Pad Pack 1-1(3185mil,2109mil)  Bottom Layer
+   Violation between Track (3126mil,2095mil)(3126mil,2125mil)  Keep-Out Layer and 
+                     Pad Pack 1-1(3185mil,2109mil)  Bottom Layer
+   Violation between Track (2915mil,2125mil)(3126mil,2125mil)  Keep-Out Layer and 
+                     Pad Pack 1-1(3185mil,2109mil)  Bottom Layer
+   Violation between Track (2915mil,2095mil)(3126mil,2095mil)  Keep-Out Layer and 
+                     Pad Pack 1-1(3185mil,2109mil)  Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (5704mil,2156mil) Top Layer to Bottom Layer
+   Violation between Track (5723mil,2141mil)(5723mil,2171mil)  Keep-Out Layer and 
+                     Via (5704mil,2156mil) Top Layer to Bottom Layer
+   Violation between Track (5723mil,2141mil)(5930mil,2141mil)  Keep-Out Layer and 
+                     Via (5704mil,2156mil) Top Layer to Bottom Layer
+   Violation between Track (5723mil,2171mil)(5933mil,2171mil)  Keep-Out Layer and 
+                     Via (5704mil,2156mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (5733.764mil,2190.882mil) Top Layer to Bottom Layer
+   Violation between Track (5723mil,2141mil)(5723mil,2171mil)  Keep-Out Layer and 
+                     Via (5733.764mil,2190.882mil) Top Layer to Bottom Layer
+   Violation between Track (5723mil,2171mil)(5933mil,2171mil)  Keep-Out Layer and 
+                     Via (5733.764mil,2190.882mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (5763.764mil,2190.882mil) Top Layer to Bottom Layer
+   Violation between Track (5723mil,2171mil)(5933mil,2171mil)  Keep-Out Layer and 
+                     Via (5763.764mil,2190.882mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (5793.764mil,2190.882mil) Top Layer to Bottom Layer
+   Violation between Track (5723mil,2171mil)(5933mil,2171mil)  Keep-Out Layer and 
+                     Via (5793.764mil,2190.882mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (5823.764mil,2190.882mil) Top Layer to Bottom Layer
+   Violation between Track (5723mil,2171mil)(5933mil,2171mil)  Keep-Out Layer and 
+                     Via (5823.764mil,2190.882mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (5853.764mil,2190.882mil) Top Layer to Bottom Layer
+   Violation between Track (5723mil,2171mil)(5933mil,2171mil)  Keep-Out Layer and 
+                     Via (5853.764mil,2190.882mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (5883.764mil,2190.882mil) Top Layer to Bottom Layer
+   Violation between Track (5723mil,2171mil)(5933mil,2171mil)  Keep-Out Layer and 
+                     Via (5883.764mil,2190.882mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (5913.764mil,2190.882mil) Top Layer to Bottom Layer
+   Violation between Track (5933mil,2171mil)(5933mil,2250mil)  Keep-Out Layer and 
+                     Via (5913.764mil,2190.882mil) Top Layer to Bottom Layer
+   Violation between Track (5723mil,2171mil)(5933mil,2171mil)  Keep-Out Layer and 
+                     Via (5913.764mil,2190.882mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (5733.764mil,2120.882mil) Top Layer to Bottom Layer
+   Violation between Track (5723mil,2141mil)(5723mil,2171mil)  Keep-Out Layer and 
+                     Via (5733.764mil,2120.882mil) Top Layer to Bottom Layer
+   Violation between Track (5723mil,2141mil)(5930mil,2141mil)  Keep-Out Layer and 
+                     Via (5733.764mil,2120.882mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (5763.764mil,2120.882mil) Top Layer to Bottom Layer
+   Violation between Track (5723mil,2141mil)(5930mil,2141mil)  Keep-Out Layer and 
+                     Via (5763.764mil,2120.882mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (5793.764mil,2120.882mil) Top Layer to Bottom Layer
+   Violation between Track (5723mil,2141mil)(5930mil,2141mil)  Keep-Out Layer and 
+                     Via (5793.764mil,2120.882mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (5823.764mil,2120.882mil) Top Layer to Bottom Layer
+   Violation between Track (5723mil,2141mil)(5930mil,2141mil)  Keep-Out Layer and 
+                     Via (5823.764mil,2120.882mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (5853.764mil,2120.882mil) Top Layer to Bottom Layer
+   Violation between Track (5723mil,2141mil)(5930mil,2141mil)  Keep-Out Layer and 
+                     Via (5853.764mil,2120.882mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (5883.764mil,2120.882mil) Top Layer to Bottom Layer
+   Violation between Track (5723mil,2141mil)(5930mil,2141mil)  Keep-Out Layer and 
+                     Via (5883.764mil,2120.882mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (5913.764mil,2120.882mil) Top Layer to Bottom Layer
+   Violation between Track (5930mil,1695mil)(5930mil,2141mil)  Keep-Out Layer and 
+                     Via (5913.764mil,2120.882mil) Top Layer to Bottom Layer
+   Violation between Track (5723mil,2141mil)(5930mil,2141mil)  Keep-Out Layer and 
+                     Via (5913.764mil,2120.882mil) Top Layer to Bottom Layer
+   Violation between Track (5723mil,2141mil)(5723mil,2171mil)  Keep-Out Layer and 
+                     Via (5704mil,2121mil) Top Layer to Bottom Layer
+   Violation between Track (5723mil,2141mil)(5930mil,2141mil)  Keep-Out Layer and 
+                     Via (5704mil,2121mil) Top Layer to Bottom Layer
+   Violation between Track (5723mil,2141mil)(5723mil,2171mil)  Keep-Out Layer and 
+                     Via (5704mil,2191mil) Top Layer to Bottom Layer
+   Violation between Track (5723mil,2171mil)(5933mil,2171mil)  Keep-Out Layer and 
+                     Via (5704mil,2191mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (3005.236mil,2078.882mil) Top Layer to Bottom Layer
+   Violation between Track (2915mil,2095mil)(3126mil,2095mil)  Keep-Out Layer and 
+                     Via (3005.236mil,2078.882mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (3095.236mil,2078.882mil) Top Layer to Bottom Layer
+   Violation between Track (2915mil,2095mil)(3126mil,2095mil)  Keep-Out Layer and 
+                     Via (3095.236mil,2078.882mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (3065.236mil,2078.882mil) Top Layer to Bottom Layer
+   Violation between Track (2915mil,2095mil)(3126mil,2095mil)  Keep-Out Layer and 
+                     Via (3065.236mil,2078.882mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (3125.236mil,2078.882mil) Top Layer to Bottom Layer
+   Violation between Track (3126mil,2095mil)(3126mil,2125mil)  Keep-Out Layer and 
+                     Via (3125.236mil,2078.882mil) Top Layer to Bottom Layer
+   Violation between Track (2915mil,2095mil)(3126mil,2095mil)  Keep-Out Layer and 
+                     Via (3125.236mil,2078.882mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (3035.236mil,2078.882mil) Top Layer to Bottom Layer
+   Violation between Track (2915mil,2095mil)(3126mil,2095mil)  Keep-Out Layer and 
+                     Via (3035.236mil,2078.882mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (2975.236mil,2078.882mil) Top Layer to Bottom Layer
+   Violation between Track (2915mil,2095mil)(3126mil,2095mil)  Keep-Out Layer and 
+                     Via (2975.236mil,2078.882mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (2945.236mil,2078.882mil) Top Layer to Bottom Layer
+   Violation between Track (2915mil,2095mil)(3126mil,2095mil)  Keep-Out Layer and 
+                     Via (2945.236mil,2078.882mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (3155mil,2114mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (3005.236mil,2148.882mil) Top Layer to Bottom Layer
+   Violation between Track (2915mil,2125mil)(3126mil,2125mil)  Keep-Out Layer and 
+                     Via (3005.236mil,2148.882mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (3095.236mil,2148.882mil) Top Layer to Bottom Layer
+   Violation between Track (2915mil,2125mil)(3126mil,2125mil)  Keep-Out Layer and 
+                     Via (3095.236mil,2148.882mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (3065.236mil,2148.882mil) Top Layer to Bottom Layer
+   Violation between Track (2915mil,2125mil)(3126mil,2125mil)  Keep-Out Layer and 
+                     Via (3065.236mil,2148.882mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (3125.236mil,2148.882mil) Top Layer to Bottom Layer
+   Violation between Track (3126mil,2095mil)(3126mil,2125mil)  Keep-Out Layer and 
+                     Via (3125.236mil,2148.882mil) Top Layer to Bottom Layer
+   Violation between Track (2915mil,2125mil)(3126mil,2125mil)  Keep-Out Layer and 
+                     Via (3125.236mil,2148.882mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (3035.236mil,2148.882mil) Top Layer to Bottom Layer
+   Violation between Track (2915mil,2125mil)(3126mil,2125mil)  Keep-Out Layer and 
+                     Via (3035.236mil,2148.882mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (2975.236mil,2148.882mil) Top Layer to Bottom Layer
+   Violation between Track (2915mil,2125mil)(3126mil,2125mil)  Keep-Out Layer and 
+                     Via (2975.236mil,2148.882mil) Top Layer to Bottom Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Via (2945.236mil,2148.882mil) Top Layer to Bottom Layer
+   Violation between Track (2915mil,2125mil)(3126mil,2125mil)  Keep-Out Layer and 
+                     Via (2945.236mil,2148.882mil) Top Layer to Bottom Layer
+   Violation between Polygon Region (0 hole(s)) Top Layer and 
+                     Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer
+   Violation between Polygon Region (0 hole(s)) Bottom Layer and 
+                     Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Polygon Region (0 hole(s)) Top Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Polygon Region (0 hole(s)) Bottom Layer
+Rule Violations :142
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+   Violation between Net Antennae: Track (2808mil,4345mil)(2992.426mil,4345mil)  Bottom Layer
+   Violation between Net Antennae: Track (4535mil,3400mil)(4569mil,3366mil)  Bottom Layer
+   Violation between Net Antennae: Track (4585mil,2295mil)(4585mil,3425mil)  Bottom Layer
+   Violation between Net Antennae: Track (4735mil,1975mil)(4745mil,1965mil)  Bottom Layer
+   Violation between Net Antennae: Track (4700mil,2525mil)(4700mil,3555mil)  Bottom Layer
+   Violation between Net Antennae: Track (4680mil,3655mil)(4680mil,3805mil)  Bottom Layer
+   Violation between Net Antennae: Track (3940mil,4335mil)(4440mil,3835mil)  Bottom Layer
+   Violation between Net Antennae: Track (3176.071mil,3769mil)(3176.071mil,4018.5mil)  Top Layer
+   Violation between Net Antennae: Track (3996.575mil,3773.5mil)(4094.027mil,3773.5mil)  Top Layer
+   Violation between Net Antennae: Track (3996.575mil,3748.5mil)(4086.5mil,3748.5mil)  Top Layer
+   Violation between Net Antennae: Track (4785mil,4360mil)(4870mil,4360mil)  Top Layer
+   Violation between Net Antennae: Track (3532.945mil,3497.055mil)(3532.945mil,3723.5mil)  Top Layer
+Rule Violations :12
+
+Processing Rule : Silk to Silk (Clearance=2mil) (All),(All)
+   Violation between Text "U1" (2865mil,4465mil)  Top Overlay and 
+                     Arc (2912.945mil,4448.028mil)  Top Overlay
+   Violation between Text "R36" (5460mil,4491mil)  Top Overlay and 
+                     Track (5455.071mil,4485mil)(5572.071mil,4485mil)  Top Overlay
+   Violation between Text "R35" (5449mil,4237mil)  Top Overlay and 
+                     Track (5446mil,4284mil)(5563mil,4284mil)  Top Overlay
+   Violation between Text "R34" (5328mil,4429mil)  Top Overlay and 
+                     Track (5285mil,4424mil)(5285mil,4541mil)  Top Overlay
+   Violation between Text "R32" (4987mil,4222mil)  Top Overlay and 
+                     Track (4995mil,4218.071mil)(4995mil,4335.071mil)  Top Overlay
+   Violation between Text "R31" (5114mil,4236mil)  Top Overlay and 
+                     Track (5114mil,4218.071mil)(5114mil,4335.071mil)  Top Overlay
+   Violation between Text "R27" (5508mil,3471mil)  Top Overlay and 
+                     Track (5512mil,3466.071mil)(5512mil,3583.071mil)  Top Overlay
+   Violation between Text "R24" (3475mil,4430mil)  Top Overlay and 
+                     Track (3349mil,4439mil)(3466mil,4439mil)  Top Overlay
+   Violation between Text "C18" (3357.929mil,4274mil)  Top Overlay and 
+                     Track (3348.929mil,4381mil)(3465.929mil,4381mil)  Top Overlay
+   Violation between Text "R23" (3371mil,4040mil)  Top Overlay and 
+                     Track (3371mil,4031.071mil)(3371mil,4148.071mil)  Top Overlay
+   Violation between Text "C19" (3147.543mil,4485.803mil)  Top Overlay and 
+                     Track (3124mil,4470mil)(3124mil,4587mil)  Top Overlay
+   Violation between Text "C20" (3106.202mil,3665.039mil)  Top Overlay and 
+                     Track (3004.929mil,3740mil)(3121.929mil,3740mil)  Top Overlay
+   Violation between Text "R13" (3352.5mil,4140.5mil)  Top Overlay and 
+                     Track (3357.929mil,4196mil)(3474.929mil,4196mil)  Top Overlay
+   Violation between Text "R2" (2610mil,3775mil)  Top Overlay and 
+                     Track (2605mil,3809.929mil)(2605mil,3926.929mil)  Top Overlay
+   Violation between Text "C17" (3371mil,3903.5mil)  Top Overlay and 
+                     Track (3371mil,3890.071mil)(3371mil,4007.071mil)  Top Overlay
+   Violation between Text "C18" (3357.929mil,4274mil)  Top Overlay and 
+                     Track (3358mil,4332mil)(3475mil,4332mil)  Top Overlay
+   Violation between Text "C18" (3357.929mil,4274mil)  Top Overlay and 
+                     Track (3357.929mil,4274mil)(3474.929mil,4274mil)  Top Overlay
+   Violation between Text "C20" (3106.202mil,3665.039mil)  Top Overlay and 
+                     Track (3115.071mil,3730mil)(3232.071mil,3730mil)  Top Overlay
+   Violation between Text "C20" (3106.202mil,3665.039mil)  Top Overlay and 
+                     Track (3115mil,3672mil)(3232mil,3672mil)  Top Overlay
+   Violation between Text "R1" (3530mil,1970mil)  Top Overlay and 
+                     Track (3484mil,1933mil)(3484mil,2050mil)  Top Overlay
+   Violation between Text "R2" (2610mil,3775mil)  Top Overlay and 
+                     Track (2565mil,3768mil)(2682mil,3768mil)  Top Overlay
+   Violation between Text "R24" (3475mil,4430mil)  Top Overlay and 
+                     Track (3488.071mil,4422mil)(3605.071mil,4422mil)  Top Overlay
+   Violation between Text "C12" (2305.559mil,4540mil)  Top Overlay and 
+                     Text "Balance 1" (1940mil,4505mil)  Top Overlay
+   Violation between Text "D1" (2658mil,4410.126mil)  Top Overlay and 
+                     Text "C8" (2615mil,4425mil)  Top Overlay
+   Violation between Text "R18" (3015mil,3685mil)  Top Overlay and 
+                     Text "C20" (3106.202mil,3665.039mil)  Top Overlay
+   Violation between Text "R23" (3371mil,4040mil)  Top Overlay and 
+                     Text "R13" (3352.5mil,4140.5mil)  Top Overlay
+Rule Violations :26
+
+Processing Rule : Silkscreen Over Component Pads (Clearance=4mil) (All),(All)
+   Violation between Text "R13" (3352.5mil,4140.5mil)  Top Overlay and 
+                     Pad U1-37(3281.055mil,4143.5mil)  Top Layer
+   Violation between Text "R13" (3352.5mil,4140.5mil)  Top Overlay and 
+                     Pad U1-38(3281.055mil,4168.5mil)  Top Layer
+   Violation between Text "R13" (3352.5mil,4140.5mil)  Top Overlay and 
+                     Pad U1-39(3281.055mil,4193.5mil)  Top Layer
+   Violation between Text "R13" (3352.5mil,4140.5mil)  Top Overlay and 
+                     Pad U1-40(3281.055mil,4218.5mil)  Top Layer
+   Violation between Text "R13" (3352.5mil,4140.5mil)  Top Overlay and 
+                     Pad U1-41(3281.055mil,4243.5mil)  Top Layer
+   Violation between Text "C18" (3357.929mil,4274mil)  Top Overlay and 
+                     Pad U1-42(3281.055mil,4268.5mil)  Top Layer
+   Violation between Text "C18" (3357.929mil,4274mil)  Top Overlay and 
+                     Pad U1-43(3281.055mil,4293.5mil)  Top Layer
+   Violation between Text "C18" (3357.929mil,4274mil)  Top Overlay and 
+                     Pad U1-44(3281.055mil,4318.5mil)  Top Layer
+   Violation between Text "C18" (3357.929mil,4274mil)  Top Overlay and 
+                     Pad U1-45(3281.055mil,4343.5mil)  Top Layer
+   Violation between Text "C18" (3357.929mil,4274mil)  Top Overlay and 
+                     Pad U1-46(3281.055mil,4368.5mil)  Top Layer
+   Violation between Text "C4" (2615.507mil,3900mil)  Top Overlay and 
+                     Pad C2-2(2688.961mil,3874mil)  Top Layer
+   Violation between Track (4905.921mil,1979.449mil)(5146.079mil,1979.449mil)  Top Overlay and 
+                     Pad D8-1(5026mil,1930.236mil)  Top Layer
+   Violation between Track (4905.921mil,2160.551mil)(5146.079mil,2160.551mil)  Top Overlay and 
+                     Pad D8-2(5026mil,2209.764mil)  Top Layer
+   Violation between Text "R24" (3475mil,4430mil)  Top Overlay and 
+                     Pad D6-2(3464mil,4477.126mil)  Top Layer
+   Violation between Text "C13" (2538.543mil,4526mil)  Top Overlay and 
+                     Pad C12-2(2461.071mil,4565mil)  Top Layer
+   Violation between Text "C12" (2305.559mil,4540mil)  Top Overlay and 
+                     Pad C12-1(2344.929mil,4565mil)  Top Layer
+   Violation between Text "R31" (5114mil,4236mil)  Top Overlay and 
+                     Pad R31-2(5143mil,4243.071mil)  Top Layer
+   Violation between Text "R31" (5114mil,4236mil)  Top Overlay and 
+                     Pad R31-1(5143mil,4310mil)  Top Layer
+   Violation between Text "R23" (3371mil,4040mil)  Top Overlay and 
+                     Pad R23-2(3400mil,4056.071mil)  Top Layer
+   Violation between Text "R23" (3371mil,4040mil)  Top Overlay and 
+                     Pad R23-1(3400mil,4123mil)  Top Layer
+   Violation between Text "C19" (3147.543mil,4485.803mil)  Top Overlay and 
+                     Pad R20-1(3095mil,4562mil)  Top Layer
+   Violation between Text "C19" (3147.543mil,4485.803mil)  Top Overlay and 
+                     Pad R20-2(3095mil,4495.071mil)  Top Layer
+   Violation between Text "C20" (3106.202mil,3665.039mil)  Top Overlay and 
+                     Pad R18-2(3096.929mil,3769mil)  Top Layer
+   Violation between Text "R13" (3352.5mil,4140.5mil)  Top Overlay and 
+                     Pad R13-1(3383mil,4225mil)  Top Layer
+   Violation between Text "R7" (2340mil,4070mil)  Top Overlay and 
+                     Pad R7-1(2434mil,4089mil)  Top Layer
+   Violation between Text "R6" (2340mil,3970mil)  Top Overlay and 
+                     Pad R6-1(2434mil,3991mil)  Top Layer
+   Violation between Text "C17" (3371mil,3903.5mil)  Top Overlay and 
+                     Pad C17-2(3400mil,3915.071mil)  Top Layer
+   Violation between Text "C17" (3371mil,3903.5mil)  Top Overlay and 
+                     Pad C17-1(3400mil,3982mil)  Top Layer
+   Violation between Text "C18" (3357.929mil,4274mil)  Top Overlay and 
+                     Pad C18-2(3383mil,4303mil)  Top Layer
+   Violation between Text "R18" (3015mil,3685mil)  Top Overlay and 
+                     Pad C20-2(3140.071mil,3701mil)  Top Layer
+   Violation between Text "C3" (2335mil,3775mil)  Top Overlay and 
+                     Pad Balance 1-7(2300mil,3794.449mil)  Multi-Layer
+   Violation between Text "R5" (2335mil,3875mil)  Top Overlay and 
+                     Pad Balance 1-6(2300mil,3892.874mil)  Multi-Layer
+   Violation between Text "R8" (2336mil,4166mil)  Top Overlay and 
+                     Pad Balance 1-3(2300mil,4188.15mil)  Multi-Layer
+   Violation between Text "R9" (2334mil,4270mil)  Top Overlay and 
+                     Pad Balance 1-2(2300mil,4286.575mil)  Multi-Layer
+Rule Violations :34
+
+Processing Rule : Hole To Hole Clearance (Gap=12mil) (All),(All)
+   Violation between Via (3170mil,1929mil) Top Layer to Bottom Layer and 
+                     Via (3170mil,1929mil) Top Layer to Bottom Layer
+   Violation between Via (3170mil,1844mil) Top Layer to Bottom Layer and 
+                     Via (3170mil,1844mil) Top Layer to Bottom Layer
+   Violation between Via (3170mil,1759mil) Top Layer to Bottom Layer and 
+                     Via (3170mil,1759mil) Top Layer to Bottom Layer
+Rule Violations :3
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=12mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint: Pad F1-2(2380mil,2535mil)  Multi-Layer
+   Violation between Hole Size Constraint: Pad F1-1(2380mil,2898mil)  Multi-Layer
+Rule Violations :2
+
+Processing Rule : Pads and Vias to follow the Drill pairs settings
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=12mil) (MaxHoleWidth=28mil) (PreferredHoleWidth=12mil) (MinWidth=24mil) (MaxWidth=50mil) (PreferedWidth=24mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=150mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Track (3135mil,3720mil)(3145mil,3710mil)  Top Layer and 
+                     Pad C20-2(3140.071mil,3701mil)  Top Layer
+   Violation between Track (3135mil,3720mil)(3135mil,3794.188mil)  Top Layer and 
+                     Pad C20-2(3140.071mil,3701mil)  Top Layer
+   Violation between Track (3145mil,3710mil)(3283.812mil,3710mil)  Top Layer and 
+                     Pad C20-2(3140.071mil,3701mil)  Top Layer
+   Violation between Track (3145mil,3710mil)(3283.812mil,3710mil)  Top Layer and 
+                     Pad C20-1(3207mil,3701mil)  Top Layer
+Rule Violations :4
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 10mil, Vertical Gap = 10mil ) (All),(All) 
+   Violation between SMT Small Component R13-541-17.8ACCT-ND (3383mil,4225mil) on Top Layer and 
+                     SMT Small Component C1-Cap Semi (3580mil,4253mil) on Top Layer
+   Violation between SMT Small Component C18-718-1113-1-ND (3449.929mil,4303mil) on Top Layer and 
+                     SMT Small Component C1-Cap Semi (3580mil,4253mil) on Top Layer
+   Violation between SMT Small Component R12-541-17.8ACCT-ND (3513.071mil,4323mil) on Top Layer and 
+                     SMT Small Component C1-Cap Semi (3580mil,4253mil) on Top Layer
+   Violation between SMT Small Component D3-BZX585-C16 (4458mil,2224.559mil) on Top Layer and 
+                     SMT Small Component C10-Cap Semi (4438.883mil,2287.883mil) on Top Layer
+   Violation between SMT Small Component R14-Res3 (4439mil,2356mil) on Top Layer and 
+                     SMT Small Component C10-Cap Semi (4438.883mil,2287.883mil) on Top Layer
+   Violation between SMT Small Component D5-BZX585-C16 (4764mil,2290mil) on Top Layer and 
+                     SMT Small Component C15-Cap Semi (4822mil,2225mil) on Top Layer
+   Violation between SMT Small Component R12-541-17.8ACCT-ND (3513.071mil,4323mil) on Top Layer and 
+                     SMT Small Component C18-718-1113-1-ND (3449.929mil,4303mil) on Top Layer
+   Violation between SMT Small Component R18-541-17.8ACCT-ND (3030mil,3769mil) on Top Layer and 
+                     SMT Small Component C20-718-1113-1-ND (3207mil,3701mil) on Top Layer
+   Violation between SMT Small Component C25-Cap Semi (5203.394mil,1964.189mil) on Top Layer and 
+                     SMT Small Component C24-Cap Semi (5203.394mil,2092.189mil) on Top Layer
+   Violation between SMT Small Component D3-BZX585-C16 (4458mil,2224.559mil) on Top Layer and 
+                     SMT Small Component D2-BZX585-C16 (4458mil,2153mil) on Top Layer
+   Violation between SMT Small Component D5-BZX585-C16 (4764mil,2290mil) on Top Layer and 
+                     SMT Small Component D4-BZX585-C16 (4762mil,2356mil) on Top Layer
+   Violation between SMT Small Component R24-541-17.8ACCT-ND (3374mil,4410mil) on Top Layer and 
+                     SMT Small Component D6-1SS355 (3464mil,4559.803mil) on Top Layer
+   Violation between SMT Small Component R12-541-17.8ACCT-ND (3513.071mil,4323mil) on Top Layer and 
+                     SMT Small Component R4-P12014CT-ND (3580mil,4393mil) on Top Layer
+   Violation between SMT Small Component R22-541-17.8ACCT-ND (3580mil,4175mil) on Top Layer and 
+                     SMT Small Component R13-541-17.8ACCT-ND (3383mil,4225mil) on Top Layer
+Rule Violations :14
+
+Processing Rule : Minimum Annular Ring (Minimum=8mil) (All)
+   Violation between Minimum Annular Ring: Via (3449.929mil,4354.929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3206.5mil,3893.5mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3513mil,4000mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3183.961mil,4456.843mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3524.803mil,4559.803mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3095mil,4445mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2985mil,4390mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2993.008mil,3816.039mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2760mil,4605mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3015mil,4415mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2799mil,4415mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2810mil,4465mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2755mil,4550mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2912.945mil,4475mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2675mil,4461.357mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2675mil,3800mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4680mil,3655mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4900mil,4463.401mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3065mil,2675mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3065mil,2760mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3065mil,2590mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4125mil,2060mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4162mil,2059mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4377mil,2153mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4375mil,2113.307mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5704mil,2156mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5733.764mil,2190.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5763.764mil,2190.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5793.764mil,2190.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5823.764mil,2190.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5853.764mil,2190.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5883.764mil,2190.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5913.764mil,2190.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5733.764mil,2120.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5763.764mil,2120.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5793.764mil,2120.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5823.764mil,2120.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5853.764mil,2120.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5883.764mil,2120.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5913.764mil,2120.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5704mil,2121mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5704mil,2191mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5689mil,1926mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5774mil,1926mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5689mil,1841mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5689mil,1756mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5774mil,1756mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5859mil,1756mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5859mil,1926mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5859mil,1841mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5774mil,1841mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3170mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3085mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3170mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3170mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3085mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3000mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3000mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3000mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3155mil,2079mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3155mil,2149mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3085mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3005.236mil,2078.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3095.236mil,2078.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3065.236mil,2078.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3125.236mil,2078.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3035.236mil,2078.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2975.236mil,2078.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2945.236mil,2078.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3155mil,2114mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3005.236mil,2148.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3095.236mil,2148.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3065.236mil,2148.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3125.236mil,2148.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3035.236mil,2148.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2975.236mil,2148.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2945.236mil,2148.882mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3170mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3255mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3340mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3425mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3510mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3595mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3680mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3765mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3850mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3935mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4020mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4275mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4360mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4445mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4530mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4615mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4700mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4785mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4870mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4955mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5040mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5125mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5210mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5295mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5380mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5465mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5550mil,1929mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5550mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5465mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5380mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5295mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5210mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5125mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5040mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4955mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4870mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4785mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4700mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4615mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4530mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4445mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4360mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4275mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4020mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3935mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3850mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3765mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3680mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3595mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3510mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3425mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3340mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3255mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3170mil,1844mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5550mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5465mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5380mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5295mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5210mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5125mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5040mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4955mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4870mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4785mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4700mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4615mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4530mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4445mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4360mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4275mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4020mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3935mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3850mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3765mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3680mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3595mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3510mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3425mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3340mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3255mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3170mil,1759mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3455mil,2085mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3400mil,2025mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3515mil,2025mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4700mil,2445mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4700mil,2525mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2280mil,2324mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2365mil,2324mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2450mil,2324mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2535mil,2324mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2620mil,2324mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2705mil,2324mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2790mil,2324mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2875mil,2324mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2960mil,2324mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3045mil,2324mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3130mil,2324mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3215mil,2324mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3130mil,2409mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3045mil,2409mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2960mil,2409mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2875mil,2409mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2790mil,2409mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2705mil,2409mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2620mil,2409mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2535mil,2409mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2450mil,2409mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2365mil,2409mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2280mil,2409mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2195mil,2409mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3215mil,2239mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3130mil,2239mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3045mil,2239mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3215mil,2154mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3215mil,2069mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2535mil,2494mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2620mil,2494mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2535mil,2579mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2620mil,2579mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2450mil,2664mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2365mil,2664mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2280mil,2664mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2195mil,2664mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2195mil,2579mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2195mil,2494mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2705mil,2664mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2790mil,2664mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2960mil,2494mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2980mil,3015mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2980mil,2930mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2980mil,2845mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2980mil,2760mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2980mil,2675mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3065mil,2845mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3150mil,2845mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3320mil,2845mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3235mil,2845mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3490mil,2845mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3405mil,2845mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3660mil,2845mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3575mil,2845mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3830mil,2845mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3745mil,2845mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4000mil,2845mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3915mil,2845mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4170mil,2845mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4085mil,2845mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4340mil,2845mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4255mil,2845mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4425mil,2845mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3460mil,2760mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3790mil,2760mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3790mil,2675mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3790mil,2590mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3280mil,2760mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3280mil,2675mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3280mil,2590mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3460mil,2675mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3365mil,2545mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3460mil,2590mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3970mil,2590mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3875mil,2545mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3970mil,2675mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3970mil,2760mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4480mil,2590mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4385mil,2545mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4480mil,2675mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4480mil,2760mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4300mil,2590mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4300mil,2675mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4300mil,2760mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2895mil,2760mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2895mil,2845mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2895mil,2930mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2895mil,3015mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2810mil,3015mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2725mil,3015mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2640mil,3015mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2555mil,3015mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2470mil,3015mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2385mil,3015mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2300mil,3015mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2215mil,2930mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2215mil,2845mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3460mil,2505mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3970mil,2505mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3790mil,2505mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3280mil,2505mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4300mil,2505mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4480mil,2505mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3181mil,3026.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3266mil,3026.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3351mil,3026.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3181mil,3111.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3266mil,3111.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3351mil,3111.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3351mil,3196.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3266mil,3196.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3181mil,3196.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3691.2mil,3026.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3776.2mil,3026.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3861.2mil,3026.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3691.2mil,3111.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3776.2mil,3111.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3861.2mil,3111.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3861.2mil,3196.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3776.2mil,3196.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (3691.2mil,3196.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4201.4mil,3026.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4286.4mil,3026.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4371.4mil,3026.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4201.4mil,3111.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4286.4mil,3111.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4371.4mil,3111.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4371.4mil,3196.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4286.4mil,3196.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4201.4mil,3196.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4796.6mil,3026.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4881.6mil,3026.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4796.6mil,3111.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4881.6mil,3111.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4881.6mil,3196.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5221.8mil,3026.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5306.8mil,3026.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5391.8mil,3026.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5221.8mil,3111.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5306.8mil,3111.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5391.8mil,3111.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5391.8mil,3196.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5306.8mil,3196.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5221.8mil,3196.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5732mil,3026.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5817mil,3026.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5902mil,3026.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5732mil,3111.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5817mil,3111.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5902mil,3111.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5902mil,3196.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5817mil,3196.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5732mil,3196.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (5350mil,4385mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4745mil,4520mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (4796.6mil,3196.535mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2519mil,4565mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring: Via (2265mil,4520mil) Top Layer to Bottom Layer
+Rule Violations :322
+
+Processing Rule : Clearance Constraint (Gap=12mil) (InNet('BATTGND')),(InNet('PACK GND'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=12mil) (InPoly or InPolygon),(All)
+Rule Violations :0
+
+
+Violations Detected : 559
+Time Elapsed        : 00:00:02

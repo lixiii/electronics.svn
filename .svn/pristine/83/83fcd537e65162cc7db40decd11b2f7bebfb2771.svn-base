@@ -1,0 +1,1 @@
+To open .lov files, download logview from www.logview.info. To install in win7 x64 I needed to run under compatibility mode for XP SP3.

@@ -1,0 +1,9 @@
+LED: http://www.bridgelux.com/assets/files/DS11%20Bridgelux%20ES%20LED%20Array%20Data%20Sheet%20DS11%20040411.pdf (models: BXRA-C0402, BXRA-N0402,
+BXRA-W0401, BXRA-W0403, BXRA-W0402 and BXRA-C0603)
+Reflector: (any bridgelux BXRA-C0402 models, eg: http://www.ledil.com/node/2/p/2701)
+
+LED: http://www.cree.com/products/pdf/XLampMC-E.pdf
+Reflector: http://www.ledil.com/node/2/p/22
+
+LED: http://www.cree.com/products/pdf/XLampCXA2011.pdf
+Reflector: http://www.ledil.fi/node/2/p/339

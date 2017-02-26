@@ -1,0 +1,14 @@
+Written from memory a long while after so may not be 100% accutare.
+
+The board had the following functions:
+	- measure battery voltage and cut off if it gets too low
+	- have (~1V I think) hysteresis in the cut off so that it doesn't immediately turn back on again when current draw from the batteries stop (n.b. batteries have internal resistace)
+	- output a scaled version of the voltage for measurement by the main control board
+	- kill practically all power / have minimal standby power when the kill switch is pressed
+	- have a maim switch which just kills power to the motors. kill switch kills everything inc motors
+	- have two configurations for kill/maim switches - the normal configuration which is good for most stuff and a configuration (Alt. configuration) that allows the kill switches to have some contact resistance between them even when they are open (technically this should never happen, but at the time we were worried about water etc leaking into them / the connector).
+	- Alt. kill switch configuration is a bit messy and uses more standby power.
+	- handle ~30A of current max (fused)
+
+Problems:
+	- Some of the comparator logic was backwards so beware if you reuse the design. Appart from that it essentially worked.
